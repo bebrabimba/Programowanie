@@ -5,11 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Media"
         mc:Ignorable="d"
-        Title="MainWindow" Height="453" Width="782" WindowStyle="None" Background="#FF1E1E1E">
+        Title="MainWindow" Height="453" Width="782" WindowStyle="None" 
+        Icon="pack://application:,,,/App.ico"
+        Background="#FF1E1E1E">
     <Grid HorizontalAlignment="Left" Height="453" VerticalAlignment="Top" Width="782">
-        <DockPanel HorizontalAlignment="Left" Height="90" LastChildFill="False" VerticalAlignment="Top" Width="782" Background="#FF232323">
-            <Image x:Name="button_close" Source="/close.png" Stretch="Fill" DockPanel.Dock="Right" Width="50" Height="50" Margin="0,0,20,0" RenderTransformOrigin="1,1"/>
-            <Image x:Name="button_minimize" Source="/images/minimize.png" Stretch="Fill" DockPanel.Dock="Right" Width="50" Margin="0,0,20,0" Height="50"/>
+        <DockPanel HorizontalAlignment="Left" Height="90" LastChildFill="False" VerticalAlignment="Top" Width="782" Background="#FF232323" MouseMove="move">
+            <Image x:Name="button_close" Source="pack://application:,,,/images/close.png" Stretch="Fill" DockPanel.Dock="Right" Width="50" Height="50" Margin="0,0,20,0" RenderTransformOrigin="1,1" HorizontalAlignment="Right" MouseLeftButtonDown="button_close_MouseLeftButtonDown"/>
+            <Image x:Name="button_minimize" Source="pack://application:,,,/images/minimize.png" Stretch="Fill" DockPanel.Dock="Right" Width="50" Margin="0,0,20,0" Height="50" MouseLeftButtonDown="button_minimize_MouseLeftButtonDown"/>
         </DockPanel>
     </Grid>
 </Window>

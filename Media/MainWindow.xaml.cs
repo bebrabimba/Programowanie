@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Reflection.Metadata;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -19,6 +20,24 @@ namespace Media
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void button_close_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            this.Close();
+        }
+
+        private void button_minimize_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            this.WindowState = WindowState.Minimized;
+        }
+
+        private void move(object sender, MouseEventArgs e)
+        {
+            if (e.ChangedButton == MouseButton.Left) // Tylko lewy przycisk myszy
+            {
+                this.DragMove();
+            }
         }
     }
 }
