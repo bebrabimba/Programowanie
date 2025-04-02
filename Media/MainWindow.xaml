@@ -5,13 +5,20 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Media"
         mc:Ignorable="d"
-        Title="MainWindow" Height="453" Width="782" WindowStyle="None" 
-        Icon="pack://application:,,,/App.ico"
-        Background="#FF1E1E1E">
-    <Grid HorizontalAlignment="Left" Height="453" VerticalAlignment="Top" Width="782">
+        Title="MainWindow" Height="463" Width="782" 
+        Icon="pack://application:,,,/App.ico" WindowStyle="None">
+    <Grid Width="782" Background="#FF1E1E1E" Height="453" HorizontalAlignment="Center" VerticalAlignment="Top">
         <DockPanel HorizontalAlignment="Left" Height="90" LastChildFill="False" VerticalAlignment="Top" Width="782" Background="#FF232323" MouseMove="move">
-            <Image x:Name="button_close" Source="pack://application:,,,/images/close.png" Stretch="Fill" DockPanel.Dock="Right" Width="50" Height="50" Margin="0,0,20,0" RenderTransformOrigin="1,1" HorizontalAlignment="Right" MouseLeftButtonDown="button_close_MouseLeftButtonDown"/>
-            <Image x:Name="button_minimize" Source="pack://application:,,,/images/minimize.png" Stretch="Fill" DockPanel.Dock="Right" Width="50" Margin="0,0,20,0" Height="50" MouseLeftButtonDown="button_minimize_MouseLeftButtonDown"/>
+            <Image x:Name="button_close" Source="/images/close.png" Stretch="Fill" DockPanel.Dock="Right" Width="50" Height="50" Margin="0,0,20,0" RenderTransformOrigin="1,1" HorizontalAlignment="Right" MouseLeftButtonDown="button_close_MouseLeftButtonDown" Cursor="Hand"/>
+            <Image x:Name="button_minimize" Source="/images/minimize.png" Stretch="Fill" DockPanel.Dock="Right" Width="50" Margin="0,0,20,0" Height="50" MouseLeftButtonDown="button_minimize_MouseLeftButtonDown" Cursor="Hand"/>
         </DockPanel>
+        <DockPanel HorizontalAlignment="Left" Height="70" LastChildFill="False" VerticalAlignment="Bottom" Width="430" MouseMove="move" Margin="20,0,0,20">
+            <Image x:Name="next" Source="/images/next.png" Stretch="Fill" DockPanel.Dock="Right" Width="70" Cursor="Hand"/>
+            <Image x:Name="play" Source="/images/play.png" Stretch="Fill" DockPanel.Dock="Right" Width="70" Height="70" Margin="0,0,20,0" Cursor="Hand"/>
+            <Image x:Name="pause" Source="/images/pause.png" DockPanel.Dock="Right" Width="70" Height="70" Margin="0,0,20,0" Stretch="Fill" Cursor="Hand"/>
+            <Image x:Name="stop" Source="/images/stop.png"  DockPanel.Dock="Right" Width="70" Height="70" Margin="0,0,20,0" Cursor="Hand"/>
+            <Image x:Name="last" Source="/images/last.png" Stretch="Fill"  DockPanel.Dock="Right" Width="70" Height="70" Margin="0,0,20,0" Cursor="Hand"/>
+        </DockPanel>
+        <ListBox HorizontalAlignment="Right" Height="216" VerticalAlignment="Top" Width="292" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,110,20,0" Cursor="Hand" Background="#FF232323" BorderBrush="{x:Null}" Foreground="White"/>
     </Grid>
 </Window>

@@ -1,11 +1,11 @@
-C:\xampp\htdocs\Programowanie\Media\obj\Debug\net8.0-windows\App.g.cs
-C:\xampp\htdocs\Programowanie\Media\obj\Debug\net8.0-windows\Media_MarkupCompile.cache
 C:\xampp\htdocs\Programowanie\Media\bin\Debug\net8.0-windows\Media.exe
 C:\xampp\htdocs\Programowanie\Media\bin\Debug\net8.0-windows\Media.deps.json
 C:\xampp\htdocs\Programowanie\Media\bin\Debug\net8.0-windows\Media.runtimeconfig.json
 C:\xampp\htdocs\Programowanie\Media\bin\Debug\net8.0-windows\Media.dll
 C:\xampp\htdocs\Programowanie\Media\bin\Debug\net8.0-windows\Media.pdb
 C:\xampp\htdocs\Programowanie\Media\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\xampp\htdocs\Programowanie\Media\obj\Debug\net8.0-windows\App.g.cs
+C:\xampp\htdocs\Programowanie\Media\obj\Debug\net8.0-windows\Media_MarkupCompile.cache
 C:\xampp\htdocs\Programowanie\Media\obj\Debug\net8.0-windows\Media_MarkupCompile.lref
 C:\xampp\htdocs\Programowanie\Media\obj\Debug\net8.0-windows\MainWindow.baml
 C:\xampp\htdocs\Programowanie\Media\obj\Debug\net8.0-windows\Media.g.resources

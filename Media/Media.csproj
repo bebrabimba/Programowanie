@@ -11,7 +11,12 @@
 
   <ItemGroup>
     <None Remove="images\close.png" />
+    <None Remove="images\last.png" />
     <None Remove="images\minimize.png" />
+    <None Remove="images\next.png" />
+    <None Remove="images\pause.png" />
+    <None Remove="images\play.png" />
+    <None Remove="images\stop.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -20,7 +25,12 @@
 
   <ItemGroup>
     <Resource Include="images\close.png" />
+    <Resource Include="images\last.png" />
     <Resource Include="images\minimize.png" />
+    <Resource Include="images\next.png" />
+    <Resource Include="images\pause.png" />
+    <Resource Include="images\play.png" />
+    <Resource Include="images\stop.png" />
   </ItemGroup>
 
   <ItemGroup>

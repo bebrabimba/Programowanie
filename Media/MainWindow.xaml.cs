@@ -34,7 +34,7 @@ namespace Media
 
         private void move(object sender, MouseEventArgs e)
         {
-            if (e.ChangedButton == MouseButton.Left) // Tylko lewy przycisk myszy
+            if (e.LeftButton == MouseButtonState.Pressed)
             {
                 this.DragMove();
             }
