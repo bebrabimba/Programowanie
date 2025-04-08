@@ -34,7 +34,10 @@ namespace Media
             axWindowsMediaPlayer1.BeginInit();
             winFormsHost.Child = axWindowsMediaPlayer1;
             axWindowsMediaPlayer1.EndInit();
-
+            timer = new System.Windows.Forms.Timer();
+            timer.Interval = 500; // Co 0.5 sekundy
+            timer.Tick += Timer_Tick;
+            timer.Start();
         }
 
         private void volumeBarScroll(object sender, System.Windows.Input.MouseEventArgs e)
@@ -172,8 +175,44 @@ namespace Media
                 listBox1.SelectedIndex = listBox1.SelectedIndex - 1;
         }
 
+        private void Timer_Tick(object sender, EventArgs e)
+        {
+            if (axWindowsMediaPlayer1 != null && axWindowsMediaPlayer1.playState == WMPLib.WMPPlayState.wmppsPlaying)
+            {
+                double currentPosition = axWindowsMediaPlayer1.Ctlcontrols.currentPosition;
+                double duration = axWindowsMediaPlayer1.currentMedia?.duration ?? 0;
 
+                // Aktualizacja labeli
+                time.Content = FormatTime(currentPosition);
+                alltime.Content = FormatTime(duration);
 
+                // Ustawienie wartości paska postępu
+                ProgressBar.Maximum = duration;
+                ProgressBar.Value = currentPosition;
+            }
+            else if (axWindowsMediaPlayer1 != null && axWindowsMediaPlayer1.playState == WMPLib.WMPPlayState.wmppsStopped)
+            {
+                // Zerujemy pasek, jeśli piosenka się zatrzyma
+                ProgressBar.Value = 0;
+            }
+        }
 
+        private string FormatTime(double seconds)
+        {
+            int mins = (int)seconds / 60;
+            int secs = (int)seconds % 60;
+            return $"{mins:D2}:{secs:D2}";
+        }
+
+        private void ProgressBar_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            if (axWindowsMediaPlayer1.currentMedia == null) return;
+
+            double mouseX = e.GetPosition(ProgressBar).X;
+            double ratio = mouseX / ProgressBar.ActualWidth;
+            double newPosition = ratio * axWindowsMediaPlayer1.currentMedia.duration;
+
+            axWindowsMediaPlayer1.Ctlcontrols.currentPosition = newPosition;
+        }
     }
 }
