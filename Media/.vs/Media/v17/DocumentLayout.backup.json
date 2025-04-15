@@ -66,8 +66,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAMwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T17:09:50.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T17:09:50.146Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,8 @@
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\xampp\\htdocs\\Programowanie\\Media\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\xampp\\htdocs\\Programowanie\\Media\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
+              "ToolTip": "C:\\xampp\\htdocs\\Programowanie\\Media\\MainWindow.xaml*",
+              "RelativeToolTip": "MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-07T17:07:08.601Z",
               "EditorCaption": ""

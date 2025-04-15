@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="453" Width="782" 
         Icon="pack://application:,,,/App.ico" WindowStyle="None">
-    <Grid Width="782" Background="#FF1E1E1E" Height="453" HorizontalAlignment="Center" VerticalAlignment="Top" Cursor="Hand">
+    <Grid Width="782" Background="#FF1E1E1E" Height="453" HorizontalAlignment="Center" VerticalAlignment="Top" Cursor="">
 
         <DockPanel HorizontalAlignment="Left" Height="90" LastChildFill="False" VerticalAlignment="Top" Width="782" Background="#FF232323" MouseMove="move">
             <Image x:Name="button_close" Source="/images/close.png" Stretch="Fill" DockPanel.Dock="Right" Width="50" Height="50" Margin="0,0,20,0" RenderTransformOrigin="1,1" HorizontalAlignment="Right" MouseLeftButtonDown="button_close_MouseLeftButtonDown" Cursor="Hand"/>
