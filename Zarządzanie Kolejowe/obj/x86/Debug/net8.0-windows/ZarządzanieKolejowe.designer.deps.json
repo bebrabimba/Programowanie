@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Shipwreck.Phash/0.5.0": {
+        "runtime": {
+          "lib/netcoreapp3.0/Shipwreck.Phash.dll": {
+            "assemblyVersion": "0.5.0.0",
+            "fileVersion": "0.5.0.0"
+          }
+        }
+      },
+      "Shipwreck.Phash.PresentationCore/0.5.0": {
+        "dependencies": {
+          "Shipwreck.Phash": "0.5.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Shipwreck.Phash.PresentationCore.dll": {
+            "assemblyVersion": "0.5.0.0",
+            "fileVersion": "0.5.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shipwreck.Phash/0.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FMeI3ZkPAjr/KlIIyagMoFCdUVADj654njRVcUC172sBGUAqdc6LRBD/3Dj9SZxbeSL1iJU4iHCTakVgva9ukQ==",
+      "path": "shipwreck.phash/0.5.0",
+      "hashPath": "shipwreck.phash.0.5.0.nupkg.sha512"
+    },
+    "Shipwreck.Phash.PresentationCore/0.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-29SgDv9NuwGC286gYKyS35vU38DFk920Z6v2f35we32xwvC3tHdbxW2pVTdr0kWfhyjnVf14UyQ9gzXUOLYtAw==",
+      "path": "shipwreck.phash.presentationcore/0.5.0",
+      "hashPath": "shipwreck.phash.presentationcore.0.5.0.nupkg.sha512"
+    }
+  }
+}
