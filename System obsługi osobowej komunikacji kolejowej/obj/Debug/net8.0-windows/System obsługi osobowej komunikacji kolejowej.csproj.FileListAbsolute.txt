@@ -1,0 +1,18 @@
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.exe
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.deps.json
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.runtimeconfig.json
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.pdb
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System_obsługi_osobowej_komunikacji_kolejowej.fon.resources
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System_obsługi_osobowej_komunikacji_kolejowej.Properties.Resources.resources
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.csproj.GenerateResource.cache
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.AssemblyInfo.cs
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.sourcelink.json
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\refint\System obsługi osobowej komunikacji kolejowej.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.pdb
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.genruntimeconfig.cache
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\ref\System obsługi osobowej komunikacji kolejowej.dll
