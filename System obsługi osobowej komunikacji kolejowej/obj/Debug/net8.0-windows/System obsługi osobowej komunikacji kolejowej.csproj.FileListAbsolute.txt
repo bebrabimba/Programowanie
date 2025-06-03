@@ -1,8 +1,4 @@
-C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.exe
-C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.deps.json
-C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.runtimeconfig.json
-C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.dll
-C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.pdb
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.csproj.AssemblyReference.cache
 C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System_obsługi_osobowej_komunikacji_kolejowej.fon.resources
 C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System_obsługi_osobowej_komunikacji_kolejowej.Properties.Resources.resources
 C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.csproj.GenerateResource.cache
@@ -11,6 +7,59 @@ C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj
 C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.AssemblyInfo.cs
 C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.csproj.CoreCompileInputs.cache
 C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.sourcelink.json
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.exe
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.dll.config
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.deps.json
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.runtimeconfig.json
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.pdb
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System o.9F279596.Up2Date
 C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.dll
 C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\refint\System obsługi osobowej komunikacji kolejowej.dll
 C:\xampp\htdocs\Programowanie\System obsługi osobowej komunikacji kolejowej\obj\Debug\net8.0-windows\System obsługi osobowej komunikacji kolejowej.pdb
