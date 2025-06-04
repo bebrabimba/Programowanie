@@ -344,35 +344,6 @@ namespace System_obsługi_osobowej_komunikacji_kolejowej
             panelContent.Controls.Add(wrapper);
         }
 
-
-        private void OpenMaszynisciView()
-        {
-            panelContent.Controls.Clear();
-            var lbl = new Label()
-            {
-                Text = "Tutaj będzie widok: MASZYNISCI",
-                ForeColor = Color.White,
-                Dock = DockStyle.Fill,
-                TextAlign = ContentAlignment.MiddleCenter,
-                Font = new Font("Segoe UI", 14, FontStyle.Bold)
-            };
-            panelContent.Controls.Add(lbl);
-        }
-
-        private void OpenKonduktorzyView()
-        {
-            panelContent.Controls.Clear();
-            var lbl = new Label()
-            {
-                Text = "Tutaj będzie widok: KONDUKTORZY",
-                ForeColor = Color.White,
-                Dock = DockStyle.Fill,
-                TextAlign = ContentAlignment.MiddleCenter,
-                Font = new Font("Segoe UI", 14, FontStyle.Bold)
-            };
-            panelContent.Controls.Add(lbl);
-        }
-
         private void OpenKupicBiletView()
         {
             panelContent.Controls.Clear();

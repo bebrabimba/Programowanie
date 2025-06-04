@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("System obsługi osobowej komunikacji kolejowej")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d49aa24fde8f7180782c8159249d20d3179c99bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff874612fcb53bf6672c60afc7224e2a276e9769")]
 [assembly: System.Reflection.AssemblyProductAttribute("System obsługi osobowej komunikacji kolejowej")]
 [assembly: System.Reflection.AssemblyTitleAttribute("System obsługi osobowej komunikacji kolejowej")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
